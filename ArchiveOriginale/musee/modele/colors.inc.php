@@ -1,6 +1,6 @@
 <?php
 /**
- * Pour Ben : Cala pas c'est un fichier que j'ai trouvé sur internet
+
  * 
  * 
  * This class can be used to get the most common colors in an image.
