@@ -9,3 +9,4 @@ une fois telecharger,
 <br>verifier que `Server` soit connecter au fichier `htdoc` et mettez le fichier `Archive` dans `Htdoc`, 
 <br>dans `PhpByAdmin` nommez la base `musee_bd`
 
+Sur ce projet j'ai été aidé par un amis.
